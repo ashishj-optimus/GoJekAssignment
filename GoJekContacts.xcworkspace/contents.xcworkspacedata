@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:StyleGuide/StyleGuide.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GoServices/GoServices.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GoContacts/GoContacts.xcodeproj">
+   </FileRef>
+</Workspace>
